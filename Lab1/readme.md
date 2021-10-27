@@ -7,7 +7,7 @@ The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history
 ## Information System Components
 The five components of an information system are: 
 1. Hardware - an example of hardware would be a keyboard.
-2. Software - an
+2. Software - an example of software is 
 
 ## GitHub
 
